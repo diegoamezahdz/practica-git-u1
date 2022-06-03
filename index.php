@@ -12,6 +12,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         <?php
         // Esta es una practica Git
         echo "<h1>Prráctica Git</h1>";
+        echo "prueba2"
 
 
         ?>
